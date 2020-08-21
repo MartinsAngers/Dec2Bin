@@ -1,0 +1,13 @@
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/bin/Debug/netcoreapp3.1/d2b
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/bin/Debug/netcoreapp3.1/d2b.deps.json
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/bin/Debug/netcoreapp3.1/d2b.runtimeconfig.json
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/bin/Debug/netcoreapp3.1/d2b.runtimeconfig.dev.json
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/bin/Debug/netcoreapp3.1/d2b.dll
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/bin/Debug/netcoreapp3.1/d2b.pdb
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/obj/Debug/netcoreapp3.1/d2b.csprojAssemblyReference.cache
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/obj/Debug/netcoreapp3.1/d2b.AssemblyInfoInputs.cache
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/obj/Debug/netcoreapp3.1/d2b.AssemblyInfo.cs
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/obj/Debug/netcoreapp3.1/d2b.csproj.CoreCompileInputs.cache
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/obj/Debug/netcoreapp3.1/d2b.dll
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/obj/Debug/netcoreapp3.1/d2b.pdb
+/home/martin/EDIBO/dotnetproject/Dec2Bin/d2b/obj/Debug/netcoreapp3.1/d2b.genruntimeconfig.cache
